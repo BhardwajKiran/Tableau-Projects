@@ -1,4 +1,6 @@
 🦠 Covid-19 India Dashboard Analysis
+
+
 This project is an interactive Tableau dashboard analyzing the impact of Covid-19 across India. It provides visual insights into case trends, deaths, testing, vaccinations, and demographic distributions based on publicly available data
 
 📊 Dashboard Highlights
@@ -15,3 +17,7 @@ Maharashtra reported the highest number of deaths.
 20–39 age group accounted for the majority of confirmed cases.
 Over 13 billion second doses administered across India.
 Significant disparity in testing infrastructure between states.
+
+
+
+
